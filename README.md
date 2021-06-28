@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dileep2896
+- 👋 Hi, I’m Dileep Kumar Sharma
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning ML, DL, ANN, CNN, RNN, AI
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning
