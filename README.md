@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dileep Kumar Sharma
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning ML, DL, ANN, CNN, RNN, AI
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning
 - 📫 How to reach me 📧 dileepkumar2896@gmail.com
