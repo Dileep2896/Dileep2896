@@ -1,7 +1,33 @@
-# Hi, I'm Dileep Kumar Sharma!
+# Hi, I'm Dileep Kumar Sharma! <img src="https://img.icons8.com/external-flat-juicy-fish/25/000000/external-programmer-digital-nomad-flat-flat-juicy-fish.png"/>
 I am currently a B.Tech student in computer science Reva University,  Bangalore. <br>
 My special interests is in Artificial Intelligence. <br>
 Currently I am trying to learn more about Computer Vision, NLP and working on projects in the relevent field.
+
+### Connect with me:
+ [<img src="https://img.shields.io/badge/instagram-%23FFFFFF.svg?&logo=instagram"/>](https://www.instagram.com/dileep_sharma_a/)
+ [<img src ="https://img.shields.io/badge/github-%23000000.svg?&logo=github"/>](https://github.com/Dileep2896/Dileep2896)
+ [<img src="https://img.shields.io/badge/kaggle-%23FFFFFF.svg?&logo=kaggle"/>](https://www.kaggle.com/dileep2896)
+ [<img src="https://img.shields.io/badge/linkedin-%23000000.svg?&logo=linkedin"/>](https://www.linkedin.com/in/dileep-kumar-s-44ab66113/)
+ [<img src="https://img.shields.io/badge/twitter-%23FFFFFF.svg?&logo=twitter"/>](https://twitter.com/dileep_kumar_a) 
+ 
+### Something more:
+
+ ```python
+ me = {
+     # Languages I am interested in
+     languages: [Python, Java, C, C++, Dart, Swift, Javascript, Kotlin, R],
+     # Libraries I often use or have worked with
+     libraries_and_frameworks: ["tensorflow", "numpy", "openCV", "openAI gym", "scikit-learn", "pytorch",
+                                 "keras", "reactJs", "material-ui", "NLTK"],
+     # Software and applications I prefer                       
+     software_and_applications: [android-studio, xcode, jupyter-notebook, vs-code, anaconda,
+                                  photoshop, final-cut-pro]
+ }
+ 
+ if year == 2022:
+    goals = ["Improve-Skills", "Contribute-In-Open-Source", "Upgrade-Profile", "Learn-Something-New"]
+    extras = ["happy-coding", "meet-new-people", "have-fun"]
+ ```
  
 **My Interests**:
   - Deep Learning
@@ -15,35 +41,4 @@ Currently I am trying to learn more about Computer Vision, NLP and working on pr
   - any collobration work (related to my interest fields).
   - artificial intelligence projects.
   - internships, research.
-  
-## Languages:
-
-  <p align = "left">
-    <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/dart.png"/>
-    <img src="https://img.icons8.com/color/48/000000/swift.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-color-tal-revivo.png"/>
-  </p>
-  
-## Libraries & Frameworks:
-  
-  <p align = "left">
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-    <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
-    <img src="https://img.icons8.com/color/48/000000/opencv.png"/>
-    <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-small.png?raw=true" width="120"/>
-    <img src="https://api.iconify.design/logos/pytorch.svg?width=48&height=48"/>
-    <img src="https://api.iconify.design/simple-icons/keras.svg?color=%23f05340&width=48&height=48"/>
-  </p>
-  
-  
-  
-  
-  
-  
   
