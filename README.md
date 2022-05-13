@@ -8,7 +8,9 @@ Currently I am trying to learn more about Computer Vision, NLP and working on pr
  [<img src ="https://img.shields.io/badge/github-%23000000.svg?&logo=github"/>](https://github.com/Dileep2896/Dileep2896)
  [<img src="https://img.shields.io/badge/kaggle-%23FFFFFF.svg?&logo=kaggle"/>](https://www.kaggle.com/dileep2896)
  [<img src="https://img.shields.io/badge/linkedin-%23000000.svg?&logo=linkedin"/>](https://www.linkedin.com/in/dileep-kumar-s-44ab66113/)
- [<img src="https://img.shields.io/badge/twitter-%23FFFFFF.svg?&logo=twitter"/>](https://twitter.com/dileep_kumar_a) 
+ [<img src="https://img.shields.io/badge/twitter-%23FFFFFF.svg?&logo=twitter"/>](https://twitter.com/dileep_kumar_a)
+ [<img src="https://img.shields.io/badge/youtube-%23FFFFFF.svg?&logo=youtube"/>](https://www.youtube.com/c/technologybit)
+
  
 ### Something more:
 
