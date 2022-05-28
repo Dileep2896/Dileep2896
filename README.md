@@ -1,7 +1,7 @@
 # Hi, I'm Dileep Kumar Sharma! <img src="https://img.icons8.com/external-flat-juicy-fish/25/000000/external-programmer-digital-nomad-flat-flat-juicy-fish.png"/>
 I am currently a B.Tech student in computer science Reva University,  Bangalore. <br>
-My special interests is in Artificial Intelligence. <br>
-Currently I am trying to learn more about Computer Vision, NLP and working on projects in the relevent field.
+My special interests is in Artificial Intelligence and block chain <br>
+Currently I am trying to learn Block Chain and AI technologies
 
 ### Connect with me:
  [<img src="https://img.shields.io/badge/instagram-%23FFFFFF.svg?&logo=instagram"/>](https://www.instagram.com/dileep_sharma_a/)
@@ -17,7 +17,7 @@ Currently I am trying to learn more about Computer Vision, NLP and working on pr
  ```python
  me = {
      # Languages I am interested in
-     languages: [Python, Java, C, C++, Dart, Swift, Javascript, Kotlin, R],
+     languages: [Python, Java, C, C++, Dart, Swift, Javascript, Kotlin, R, Solidity],
      # Libraries I often use or have worked with
      libraries_and_frameworks: ["tensorflow", "numpy", "openCV", "openAI gym", "scikit-learn", "pytorch",
                                  "keras", "reactJs", "material-ui", "NLTK"],
