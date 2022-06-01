@@ -20,21 +20,19 @@ Currently I am trying to learn Block Chain and AI technologies
      languages: [Python, Java, C, C++, Dart, Swift, Javascript, Kotlin, R, Solidity],
      # Libraries I often use or have worked with
      libraries_and_frameworks: ["tensorflow", "numpy", "openCV", "openAI gym", "scikit-learn", "pytorch",
-                                 "keras", "reactJs", "material-ui", "NLTK"],
+                                 "keras", "reactJs", "material-ui", "NLTK", 'flutter_pub_dev'],
      # Software and applications I prefer                       
-     software_and_applications: [android-studio, xcode, jupyter-notebook, vs-code, anaconda,
-                                  photoshop, final-cut-pro]
+     software_and_applications: ['flutter', 'android-studio',  'anaconda', 'adobe', 'vs-code']
  }
  
  if year == 2022:
-    goals = ["Improve-Skills", "Contribute-In-Open-Source", "Upgrade-Profile", "Learn-Something-New"]
-    extras = ["happy-coding", "meet-new-people", "have-fun"]
+    goals = ["Become a web3 developer", "Improve-Skills", "Contribute-In-Open-Source", "Learn-Something-New"]
+    extras = ["happy-coding", "meet-new-people", "have-fun", "tt-fav_game"]
  ```
  
 **My Interests**:
-  - Deep Learning
-  - Machine Learning
-  - NLP
+  - Artificial Intelligence
+  - Web3
   - Android/IOS Application Development
   - Web Development
   - Content Creation
@@ -42,5 +40,6 @@ Currently I am trying to learn Block Chain and AI technologies
 **I am open for**:
   - any collobration work (related to my interest fields).
   - artificial intelligence projects.
+  - web3 collaboration.
   - internships, research.
   
