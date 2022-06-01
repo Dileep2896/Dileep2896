@@ -44,4 +44,5 @@ Currently I am trying to learn Block Chain and AI technologies
   - internships, research.
   
 ## Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dileep2896)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dileep2896&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dileep2896&theme=radical)](https://git.io/streak-stats)
