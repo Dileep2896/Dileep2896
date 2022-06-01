@@ -43,4 +43,5 @@ Currently I am trying to learn Block Chain and AI technologies
   - web3 collaboration.
   - internships, research.
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/Dileep2896)](https://git.io/streak-stats)
+## Github Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dileep2896)](https://git.io/streak-stats)
