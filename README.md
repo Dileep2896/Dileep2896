@@ -11,7 +11,7 @@ I am a tech-savvy visionary pursuing my MS in Computer Science at Rochester Inst
 ### Something more:
 
 **SKILLS**:
-* Web Development | JavaScript | SQL | Node | React | NoSQL | Git | CSS | Bootstrap | HTML | Angular | Vue | UI/UX | Full Stack.
+* Web Development | JavaScript | SQL | Node | React | NoSQL | Git | CSS | Bootstrap | HTML | UI/UX | Full Stack.
 * C# | .NET | TypeScript | C++ | C | AWS | Azure | Firebase | Cloud Computing | CI/CD.
 * App Development | Java | Flutter | Dart | Kotlin | Swift | iOS | XCode | Agile.
 * OOP | Linux | Python | TensorFlow | Scikit-Learn.
