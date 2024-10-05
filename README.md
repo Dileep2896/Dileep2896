@@ -11,19 +11,15 @@ Hey, I’m Dileep—your friendly software sorcerer. I turn coffee into code and
 ### Something more:
 
 **SKILLS**:
-* Web Development | JavaScript | SQL | Node | React | NoSQL | Git | CSS | Bootstrap | HTML | UI/UX | Full Stack.
-* C# | .NET | TypeScript | C++ | C | AWS | Azure | Firebase | Cloud Computing | CI/CD.
-* App Development | Java | Flutter | Dart | Kotlin | Swift | iOS | XCode | Agile.
-* OOP | Linux | Python | TensorFlow | Scikit-Learn.
-* English | Hindi.
+* Languages: JavaScript, TypeScript, Python, Java, SQL, C/C++.
+* Tools / Platforms: Node.js, React.js, Next.js, Express.js, MongoDB, NPM, Docker, GitHub, REST, CI/CD, Agile, PostgreSQL.
+* Clouds: AWS (EC2, S3, ECR, RDS, Elastic Beanstalk, Amplify), GCP.
  
 **My Interests**:
-  - Artificial Intelligence
-  - Web3
-  - Android/IOS Application Development
-  - Web Development
-  - Content Creation
+  - Full-Stack Development
+  - Android Development
+  - Flutter Development
 
 **I am open for**:
-  - Summer 2024 Internships (SDE)
+  - Spring/Summer 2025 Internships/Co-ops (SDE)
   - Open source projects
