@@ -1,5 +1,5 @@
 # Hi, I'm Dileep Kumar Sharma! <img src="https://img.icons8.com/external-flat-juicy-fish/25/000000/external-programmer-digital-nomad-flat-flat-juicy-fish.png"/>
-I am a tech-savvy visionary pursuing my MS in Computer Science at Rochester Institute of Technology, after excelling in B.Tech from REVA University. With a flair for innovation, I've led AI-driven projects, revolutionizing EV charging infrastructure as CEO of EVon. As a Front-end Flutter Developer, I've harnessed ML and AI to create engaging gaming engines. A recognized leader and winner in 12 National and international Hackathons.
+Hey, I’m Dileep—your friendly software sorcerer. I turn coffee into code and bring crazy ideas to life with React, Next.js, Node.js, Flask, Spring Boot, and a sprinkle of AWS and GCP magic. I’ve built AI-powered EV charging apps that zap wait times like lightning and crafted sleek UIs that even make APIs blush. From taming backend beasts to wrangling frontend features, I make sure things run smoother than your favorite GIF. Let’s build something that’ll make the internet a bit more awesome! 🚀
 
 ### Connect with me:
  [<img src="https://img.shields.io/badge/instagram-%23FFFFFF.svg?&logo=instagram"/>](https://www.instagram.com/dileep_sharma_a/)
