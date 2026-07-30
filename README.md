@@ -1,100 +1,135 @@
+<div align="center">
+
 # Hey, I'm Dileep 👋
 
-**Full-stack engineer** | **12x Hackathon Winner** | **Startup Founder**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Frontend+%2B+AI+Engineer;12x+Hackathon+Winner;Startup+Founder;I+build+things+that+ship" alt="Frontend + AI Engineer, 12x Hackathon Winner, Startup Founder" />
 
-I build things that scale. From enterprise platforms serving 10,000+ users to ML-powered routing systems, I love turning complex problems into clean, performant solutions. Currently pursuing my MS in Computer Science at RIT (May 2026) while shipping production code at Metis AI.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dileep2896)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dileepkumarsharma.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ds3638@g.rit.edu)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dileep2896)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://dileepkumarsharma.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ds3638@g.rit.edu)
+</div>
 
----
+Frontend and AI engineer at [Metis AI](https://metis.ai), where I own the React and React Native ecosystem end to end, from the design system to the mobile app on Google Play. Founded an EV charging startup in India before my MS in Computer Science at RIT (2026). I ship fast, mostly AI agents and on-device ML.
 
-## 🚀 What I'm Up To
+## Now
 
-- **Building** → AI-powered industrial maintenance platform at [Metis AI](https://metis.ai) (React, React Native, enterprise scale)
-- **Exploring** → Convex optimization & multi-echelon inventory systems for my capstone
-- **Seeking** → New grad SWE roles starting Summer 2026
+- **Looking** → my next SWE role (frontend, full stack, AI)
+- **Shipping** → real-time WebSocket features and the Metis mobile app on Google Play
+- **Building** → AI agents and on-device ML side experiments
 
----
+## Recent builds
 
-## 💼 Where I've Built Things
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Metis AI Inc.** — *Software Engineer Co-Op*  
-Enterprise AI platform for industrial maintenance. Built React/React Native ecosystem deployed to 2 enterprise customers (5,000+ employees each). Reduced field technician downtime by 30% with offline-first mobile architecture.
+### ⚖️ Sub Rosa
 
-**EVon Energy** — *Founder & Software Engineer*  
-Founded an EV charging startup in India. Led 5 engineers, built cross-platform app aggregating 3 charging providers, and developed ML routing (MLP + A* pathfinding) that improved station recommendations by 40%.
+Legal AI note taker that runs fully on device. Whisper and Llama 3.2 on Snapdragon, zero cloud.
 
-**Impactional Games** — *Software Engineer Intern*  
-Optimized Flutter chess app from 45 to 60+ FPS. Cut Unity build times by 60% through Unity-as-a-Library integration.
+`ExecuTorch` `Whisper` `Llama 3.2` `On-device`
 
----
+<sub>Qualcomm x Meta ExecuTorch Hackathon · 2026</sub>
 
-## 🛠️ Featured Projects
+</td>
+<td width="50%" valign="top">
 
-### [TaskNexus](https://github.com/Dileep2896/TaskNexus)
-Full-stack project management platform with Kanban boards, Gantt timelines, and real-time drag-and-drop. Deployed on AWS serving 500+ concurrent users.
+### 🩹 Mend
+
+Agent that crawls live sites, finds accessibility failures, and generates WCAG fixes from real scraped data.
+
+`AI Agents` `Accessibility` `Web Scraping`
+
+<sub>Loop Engineering Hackathon, SF · 2026</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 Reveria
+
+Voice-driven interactive storytelling with real-time multimodal narration.
+
+`Gemini Live API` `ADK` `Voice AI`
+
+<sub>Gemini Live Agent Challenge · 2026</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Multi-Robot Warehouse Navigation
+
+LLM-orchestrated navigation for a robot fleet. Claude plans, ROS2 Nav2 executes on TurtleBot4s.
+
+`Claude API` `ROS2` `Nav2` `TurtleBot4`
+
+<sub>MS Capstone, RIT · 2026</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 [TaskNexus](https://github.com/Dileep2896/TaskNexus)
+
+Project management platform with Kanban boards, Gantt timelines, and real-time drag and drop. 500+ concurrent users on AWS.
 
 `Next.js` `Redux Toolkit` `PostgreSQL` `Prisma` `AWS`
 
-### [DocuMate](https://github.com/Dileep2896/DocuMate)
-Real-time collaborative document editor with live cursors, presence indicators, and threaded comments. Supports 10+ simultaneous editors with conflict-free merging.
+</td>
+<td width="50%" valign="top">
+
+### 📝 [DocuMate](https://github.com/Dileep2896/DocuMate)
+
+Collaborative document editor with live cursors, presence, and threaded comments. 10+ editors, conflict-free merging.
 
 `Next.js` `TypeScript` `Liveblocks` `Lexical`
 
----
+</td>
+</tr>
+</table>
 
-## 🧰 Tech Stack
+<sub>Also from the lab: **Milo** (learn by teaching AI) · **Arbiter** (agent auth with Token Vault) · **ShipFlow** (AI pipeline orchestrator) · **Unpriced** (tariff exposure detector) · **SceneShop** (virtual product placement) · **VisaPath** (immigration timeline planner) · **PromptDeck** · **NovaSnap**</sub>
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+<!-- drop repo or demo links on the recent builds when ready -->
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+## Experience
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
+**Metis AI** · Software Engineer
+Sole frontend engineer on an enterprise AI platform for industrial maintenance, deployed to 2 customers with 5,000+ employees each. Built the offline-first mobile architecture that cut field technician downtime by 30%.
 
-**Data**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+**EVon Energy** · Founder & Software Engineer
+Led 5 engineers building a cross-platform app aggregating 3 charging providers across India. ML routing (MLP + A* pathfinding) improved station recommendations by 40%.
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+**Impactional Games** · Software Engineer Intern
+Took a Flutter chess app from 45 to 60+ FPS and cut Unity build times 60% with Unity-as-a-Library.
 
----
+## Stack
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dileep2896&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileep2896&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,dart,react,nextjs,flutter,tailwind,nodejs,express,graphql,flask,supabase,postgres,mongodb,redis,firebase,aws,gcp,docker,kubernetes&perline=11" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dileep2896&theme=tokyonight&hide_border=true" width="420" />
+</div>
+
+Plus React Native / Expo, the Anthropic API, ExecuTorch, and multi-agent systems.
+
+## Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dileep2896&theme=tokyonight&hide_border=true" width="420" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Let's build something that matters.</i><br><br>
-  <a href="https://linkedin.com/in/dileep2896">LinkedIn</a> •
-  <a href="https://dileepkumarsharma.com">Portfolio</a> •
-  <a href="mailto:ds3638@g.rit.edu">Email</a>
-</p>
+<div align="center">
+
+*Let's build something that matters.*
+
+[LinkedIn](https://linkedin.com/in/dileep2896) · [Portfolio](https://dileepkumarsharma.com) · [Email](mailto:ds3638@g.rit.edu)
+
+</div>
